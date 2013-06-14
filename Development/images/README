@@ -1,0 +1,48 @@
+
+Appliance hierarchy images:
+---------------------------
+
+The following files are used to generate the pictures for
+the wiki document:
+https://github.com/ManageIQ/cfme/wiki/Appliance-hierarchy-overview
+
+The files under the "src" directory were generated using Dia:
+and are maintained in pairs of .dia and .dia~
+  see: https://live.gnome.org/Dia
+
+The files under the "raw" directory are images (.jpeg) representations
+and were created using the "export as .jpeg" feature of Dia.
+
+The "raw" .jpeg files locations on github are linked to from the
+the wiki document noted above:
+https://github.com/ManageIQ/cfme/wiki/Appliance-hierarchy-overview
+
+.
+├── README (this file)
+├── raw
+│   ├── appliance_hierarchy.jpeg
+│   ├── example_r1_appliance_hierarchy-1.jpeg
+│   ├── example_r1_appliance_hierarchy-2.jpeg
+│   ├── example_r1_appliance_hierarchy-3.jpeg
+│   ├── example_r1_appliance_hierarchy-4.jpeg
+│   ├── example_r1_appliance_hierarchy-5.jpeg
+│   ├── example_r2_appliance_hierarchy-123.jpeg
+│   └── example_r99_appliance_hierarchy.jpeg
+└── src
+    ├── appliance_hierarchy.dia
+    ├── appliance_hierarchy.dia~
+    ├── example_r1_appliance_hierarchy-1.dia
+    ├── example_r1_appliance_hierarchy-1.dia~
+    ├── example_r1_appliance_hierarchy-2.dia
+    ├── example_r1_appliance_hierarchy-2.dia~
+    ├── example_r1_appliance_hierarchy-3.dia
+    ├── example_r1_appliance_hierarchy-3.dia~
+    ├── example_r1_appliance_hierarchy-4.dia
+    ├── example_r1_appliance_hierarchy-4.dia~
+    ├── example_r1_appliance_hierarchy-5.dia
+    ├── example_r1_appliance_hierarchy-5.dia~
+    ├── example_r2_appliance_hierarchy-123.dia
+    ├── example_r2_appliance_hierarchy-123.dia~
+    ├── example_r99_appliance_hierarchy.dia
+    └── example_r99_appliance_hierarchy.dia~
+
